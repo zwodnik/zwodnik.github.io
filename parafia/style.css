@@ -23,8 +23,7 @@ body {
 }
 
 .bg-baner {
-	/*background-image: url('img/baner-2.jpg');*/
-	background-image: url('img/baner-30.jpg');
+	background-image: url('img/baner-2.jpg');
 	background-size: cover;
     background-position-x: center;
     background-position-y: top;
